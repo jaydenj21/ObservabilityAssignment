@@ -1,0 +1,19 @@
+{
+  "name": "observabilityassignment",
+  "version": "1.0.0",
+  "description": "observabilityassignment package.json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydenj12/ObservabilityAssignment.git"
+  },
+  "author": "jaydenj21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydenj12/ObservabilityAssignment/issues"
+  },
+  "homepage": "https://github.com/jaydenj12/ObservabilityAssignment#readme"
+}
